@@ -1,1 +1,1 @@
-“New line added here to work on checkout and reset, smile and open your eyes” 
+“New line added here to work on checkout and reset, so you should smile and open your eyes” 
